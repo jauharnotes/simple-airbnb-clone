@@ -1,3 +1,8 @@
+![Preview](https://github.com/jauharnotes/simple-rbnb-clone/blob/master/src/images/AirBnb%20Experiences.png?raw=true)
+
+<br>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
