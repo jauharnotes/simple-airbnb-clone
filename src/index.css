@@ -10,7 +10,7 @@ body {
 
 .wrapper {
   /* background-color: blue; */
-  background-image: url(./images/city-background.jpg);
+  background-image: url(../public/images/city-background.jpg);
   /* background-repeat: no-repeat; */
   background-size: cover;
   height: 1010px;
@@ -62,13 +62,21 @@ nav {
 
 .card {
   margin-top: 49px;
-  width: 280px;
-  margin-left: 36px;
+  width: 170px;
+  position: relative;
+
+  /* margin-left: 36px; */
+  /* margin-right: 2px; */
 }
 
 .card--figure {
   width: 100%;
-  height: 200px;
+  height: 230px;
+  cursor: pointer;
+}
+
+.card--figure:hover {
+  opacity: 0.5;
 }
 
 .card--stars {
@@ -102,4 +110,18 @@ nav {
 
 .card--wrap {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-left: 30px;
+}
+
+.card--badge {
+  font-size: 12px;
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: white;
+  padding: 5px 7px;
+  border-radius: 2px;
+  font-weight: bold;
 }
