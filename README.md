@@ -1,4 +1,4 @@
-![Preview](https://github.com/jauharnotes/simple-rbnb-clone/blob/master/src/images/AirBnb%20Experiences.png?raw=true)
+![Preview](https://github.com/jauharnotes/simple-airbnb-clone/blob/master/public/images/AirBnb%20Experiences.png?raw=true)
 
 <br>
 <br>
